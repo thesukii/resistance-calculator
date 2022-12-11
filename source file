@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+string input;
+const char* s = "s";
+const char* p = "p";
+float r1 , r2 , type;
+float sresult , presult;
+
