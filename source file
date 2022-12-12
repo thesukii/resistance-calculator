@@ -10,3 +10,6 @@ const char* p = "p";
 float r1 , r2 , type;
 float sresult , presult;
 
+sresult=r1+r2;
+presult=(1/r1)+(1/r2);
+// we tell the process here.
