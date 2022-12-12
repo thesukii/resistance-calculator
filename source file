@@ -18,4 +18,12 @@ if(input ==s){
     cout<<"-----------------------------"<<endl;
 cout<<"Result of equivalent link:"<<" "<<shesap<<" "<<"OHM"<<endl; // we use OHM in equivalent resistance
 cout<<"-----------------------------";
+} 
+// i was using if-else all the time. But I think everyone will better understand else if loop.
+else if(input == p){
+    cout<<"-----------------------------"<<endl;
+    cout<<"Result of equivalent link:"<<" "<<presult<<endl;
+    cout<<"-----------------------------";
+} else{
+    cout<<"MISTAKE!";
 }
