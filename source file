@@ -13,3 +13,9 @@ float sresult , presult;
 sresult=r1+r2;
 presult=(1/r1)+(1/r2);
 // we tell the process here.
+
+if(input ==s){
+    cout<<"-----------------------------"<<endl;
+cout<<"Result of equivalent link:"<<" "<<shesap<<" "<<"OHM"<<endl; // we use OHM in equivalent resistance
+cout<<"-----------------------------";
+}
